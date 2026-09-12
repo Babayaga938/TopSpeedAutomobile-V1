@@ -1,0 +1,16 @@
+D:\DOTNET\TopSpeedAutomobile\TopSpeed.Domain\bin\Debug\net10.0\TopSpeed.Domain.deps.json
+D:\DOTNET\TopSpeedAutomobile\TopSpeed.Domain\bin\Debug\net10.0\TopSpeed.Domain.dll
+D:\DOTNET\TopSpeedAutomobile\TopSpeed.Domain\bin\Debug\net10.0\TopSpeed.Domain.pdb
+D:\DOTNET\TopSpeedAutomobile\TopSpeed.Domain\obj\Debug\net10.0\TopSpeed.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET\TopSpeedAutomobile\TopSpeed.Domain\obj\Debug\net10.0\TopSpeed.Domain.AssemblyInfoInputs.cache
+D:\DOTNET\TopSpeedAutomobile\TopSpeed.Domain\obj\Debug\net10.0\TopSpeed.Domain.AssemblyInfo.cs
+D:\DOTNET\TopSpeedAutomobile\TopSpeed.Domain\obj\Debug\net10.0\TopSpeed.Domain.csproj.CoreCompileInputs.cache
+D:\DOTNET\TopSpeedAutomobile\TopSpeed.Domain\obj\Debug\net10.0\TopSpeed.Domain.sourcelink.json
+D:\DOTNET\TopSpeedAutomobile\TopSpeed.Domain\obj\Debug\net10.0\TopSpeed.Domain.dll
+D:\DOTNET\TopSpeedAutomobile\TopSpeed.Domain\obj\Debug\net10.0\refint\TopSpeed.Domain.dll
+D:\DOTNET\TopSpeedAutomobile\TopSpeed.Domain\obj\Debug\net10.0\TopSpeed.Domain.pdb
+D:\DOTNET\TopSpeedAutomobile\TopSpeed.Domain\obj\Debug\net10.0\ref\TopSpeed.Domain.dll
+D:\DOTNET\TopSpeedAutomobile\TopSpeed.Domain\bin\Debug\net10.0\TopSpeed.Domain.runtimeconfig.json
+D:\DOTNET\TopSpeedAutomobile\TopSpeed.Domain\obj\Debug\net10.0\TopSpeed.Domain.csproj.AssemblyReference.cache
+D:\DOTNET\TopSpeedAutomobile\TopSpeed.Domain\obj\Debug\net10.0\TopSpeed.Domain.genruntimeconfig.cache
+D:\DOTNET\TopSpeedAutomobile\TopSpeed.Domain\obj\Debug\net10.0\TopSpeed.F5DED058.Up2Date

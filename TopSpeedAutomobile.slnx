@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TopSpeed.Application/TopSpeed.Application.csproj" Id="d9e6d1c6-5fe0-4fea-9686-842116c9d67a" />
+  <Project Path="TopSpeed.Domain/TopSpeed.Domain.csproj" Id="50761d91-11de-41d0-8fed-2fe30ab80428" />
+  <Project Path="TopSpeed.Infrastructure/TopSpeed.Infrastructure.csproj" Id="6314de96-6c8b-4359-bae4-a57f381738d1" />
+  <Project Path="TopSpeed.Web/TopSpeed.Web.csproj" />
+</Solution>
